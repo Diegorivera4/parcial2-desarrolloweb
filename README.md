@@ -14,3 +14,4 @@ El resultado final debía representar un sitio informativo que mostrara diferent
    
 - Pie de página con información complementaria.
   
+Diego Fernando Rivera Ramirez
