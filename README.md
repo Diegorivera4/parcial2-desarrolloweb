@@ -1,4 +1,4 @@
-Crear una página web inspirada en la temática de Disney, siguiendo las buenas prácticas de maquetación web y organización de archivos.  
+El objetivo fue crear una página web inspirada en la temática de Disney, siguiendo las buenas prácticas de maquetación web y organización de archivos.  
 
 
 El resultado final debía representar un sitio informativo que mostrara diferentes secciones como:
